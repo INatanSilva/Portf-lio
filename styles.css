@@ -1,0 +1,61 @@
+
+
+@font-face {
+    font-family: fussion;
+    src: url('fontes/FussionPersonalUse.ttf');
+}
+
+@font-face {
+    font-family: caviar;
+    src: url('fontes/CaviarDreams_Italic.ttf');
+}
+
+
+body {
+    background-color: 
+}
+
+.topo {
+    
+    width: auto; /* Defina a largura da div conforme necessário */
+    height: 100px; /* Defina a altura da div conforme necessário */
+    
+    
+    
+}
+
+.menu {
+    
+    margin-right: 60px;
+    margin-top: 60px ;
+
+}
+
+.user {
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.container {
+    text-align: center;
+    width: auto;
+    height: 450px;
+   
+}
+    
+    
+p {    
+    font-family: fussion;
+    font-size: 35px; /* Tamanho da fonte */
+    font-weight: bold; /* Peso da fonte, se desejado */
+    background-image: linear-gradient(to right, #4ff54f, #003cff); /* Defina as cores do degradê e a direção desejada */
+    -webkit-background-clip: text; /* Suporte ao WebKit (Safari/Chrome) */
+    background-clip: text;
+    color: transparent; /* Torna o texto invisível */
+        
+}
+
+h6 {
+    font-family: caviar;
+    font-size: 15px;
+}
